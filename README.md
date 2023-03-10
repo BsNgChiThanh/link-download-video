@@ -9,3 +9,5 @@
 **4. [Link download Telegram](https://pastedownload.com/telegram-video-downloader/)**
 
 **5. [Link download Vimeo](https://www.savethevideo.com/vimeo-downloader)**
+
+**6. [Link download Twitter](https://twittervideodownloader.com/)**
